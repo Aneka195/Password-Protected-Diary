@@ -14,26 +14,26 @@ Project Description: Our password protected diary app will allow users to keep t
 
 Project Requirements:
 
-1.As a new user, you can create an account to store your diary
+1. As a new user, you can create an account to store your diary
 
-2.When creating a new account, the user can select a username and password of their choice
+2. When creating a new account, the user can select a username and password of their choice
 
-3.The user can then log off from their account using a button on the right corner of the screen.
+3. The user can then log off from their account using a button on the right corner of the screen.
 
-4.User can also make multiple accounts, but must log-off from an account before being able to login to another account.
+4. User can also make multiple accounts, but must log-off from an account before being able to login to another account.
 
-5.Having a secure amount of password characters (make it required). Such as having 8-12 characters with numbers and symbols.
+5. Having a secure amount of password characters (make it required). Such as having 8-12 characters with numbers and symbols.
 
-6.Entry Date and time written onto each entry
+6. Entry Date and time written onto each entry
 
-7.When creating a first diary, select the theme preferred, later u can change it.
+7. When creating a first diary, select the theme preferred, later u can change it.
 
-8.When the user is logged in to their profile they can add new entries, and view the previous entries they have created
+8. When the user is logged in to their profile they can add new entries, and view the previous entries they have created
 
-9.Entries will be limited to text only (can add images or other files possibly)
+9. Entries will be limited to text only (can add images or other files possibly)
 
-10.Users can change the size and color of the text
+10. Users can change the size and color of the text
 
-11.The user has to be logged in to access features like adding new entries and note saving. 
+11. The user has to be logged in to access features like adding new entries and note saving. 
 
-12.When writing a note, the user will only see the note and a small tab at the top of the app with elemental settings (to keep the design minimalistic)
+12. When writing a note, the user will only see the note and a small tab at the top of the app with elemental settings (to keep the design minimalistic)
